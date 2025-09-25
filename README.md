@@ -1,1 +1,1 @@
-# Birthday-Cake-Candles
+# Birthday-Cake-Candles This program finds the tallest candles on a birthday cake and counts how many candles have that maximum height. The birthdayCakeCandles function uses Max() to determine the tallest candle and Count() to calculate how many candles match that height, then returns the count.
